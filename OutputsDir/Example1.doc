@@ -1,0 +1,17 @@
+ SPECIES
+ C2H6
+Thermo estimation for molecule
+ C2H6                                                    C2H6
+UNITS:   K,kcal  -  LINEAR SPECIE
+GROUPS   1
+	Gr	#	Group ID	Quantity
+	  	1	-	C/C/H3 	-	2
+ Hf    S     CP300 CP400 CP500 CP600 CP800 CP1000 CP1500
+-20.32 54.82 12.02 15.36 18.48 21.02 25.38 28.90  34.56 
+		CPINF = 41.8
+Number of rotors:	1
+Symmetry:	18
+Creation date:	27/05/2023
+ENDSPECIES
+
+
